@@ -1,6 +1,6 @@
-# Data Analyst / Data Scientist Portfolio
+# Data Analyst / Business Intelligence Portfolio
 
-A responsive, minimalist portfolio website built with plain HTML, CSS and JavaScript. It is free to host with GitHub Pages.
+A responsive, minimalist portfolio website built with plain HTML, CSS and JavaScript. To host on GitHub Pages.
 
 ## 1. Personalize before publishing
 
